@@ -38,14 +38,14 @@ const IndexPage = () => (
         <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
         <p></p>
         <h2>I dont know what to create for content, I have no ideas!</h2>
-        <p>Please just steal some tutorials from these sites, and "copy" them to markdown</p>
-        <a href="https://opensource.com/tags/linux">opensource</a>
-        <a href="https://linuxjourney.com/">linuxjourney</a>
-        <a href="https://ryanstutorials.net/linuxtutorial/">ryanstutorials</a>
-        <a href="https://www.cyberciti.biz/faq/">GREAT PLACE TO COPY FROM</a>
-        <a href="https://wiki.bash-hackers.org/start">bash-hackers</a>
-        <a href="https://devhints.io/">devhints</a>
-        <a href="https://vim.fandom.com/wiki/Vim_Tips_Wiki/">vim hints</a>
+        <p>Please just steal some tutorials from these sites, and "copy" them to markdown</p><br/>
+        <a href="https://opensource.com/tags/linux">opensource</a><br/>
+        <a href="https://linuxjourney.com/">linuxjourney</a><br/>
+        <a href="https://ryanstutorials.net/linuxtutorial/">ryanstutorials</a><br/>
+        <a href="https://www.cyberciti.biz/faq/">GREAT PLACE TO COPY FROM</a><br/>
+        <a href="https://wiki.bash-hackers.org/start">bash-hackers</a><br/>
+        <a href="https://devhints.io/">devhints</a><br/>
+        <a href="https://vim.fandom.com/wiki/Vim_Tips_Wiki/">vim hints</a><br/>
         <h2>Ok, whats in it for me?</h2>
         <p>Well, I cant offer you cash, MAYBE I would be up for discussion about some agreement for cash (~300-400czk) in return for every 10 pages of published tutorial content, but please... dont consider cash as an incentive here</p>
         <p> I can offer you a beer or two if you are willing to help a friend, thats about it</p>
@@ -53,8 +53,12 @@ const IndexPage = () => (
         <p>I would just like to help others to help themselves, to change their careers, thats all</p>
         <p></p>
         <h2>So theres nothing in this for me?</h2>
-        <p>Well, Ill add you to some contributors page I will create on the site... so you will have solid gold proof that you have contributed to an open source Linux tutorail website in your out-of-work time. You'll have some green squares on your github heat-map to show to future employers and you'll have a sense of pride that you helped someone who needed help to get where you are.</p>
-        
+        <p>Well, Ill add you to some contributors page I will create on the site... so you will have solid gold proof that you have contributed to an open source Linux tutorial website in your out-of-work time. You'll have some green squares on your github heat-map to show to future employers and you'll have a sense of pride that you helped someone who needed help to get where you are. Plus it will look pretty good on your CV that you are a "regular contributor" to a Linux tutorial website, it will look very good compared to the next dude who doesnt do that.</p>
+        <br/>
+        <h2>Ok, how can I start?</h2>
+        <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that ( next section for explanation ). 
+          So... all I need is tutorials content for now... if you can help me with that, I would be very happy...</p>
+       <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/wiki/How-to-contribute-to-the-site....">here</a> for details how to help contribute...and THANK YOU!</p>
         
         
         
