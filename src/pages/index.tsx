@@ -26,10 +26,36 @@ const IndexPage = () => (
         <p>Whatever we decide to put there...these tutorials can be easy/medium/hard/expert tasks, and while I am aiming 99% towards Linux, I already have one guy providing Windows tutorials..</p>
         <p></p>
         <h2>So...get to the point...</h2>
-        <p>I need content, the website structure is mostly done, I have a few things I need to do, but I need conteeentttt....</p>
+        <p>I need content, the website structure is mostly done, I have a few things I need to do, but I need conteeentttt....I've created about 10 tutorials myself so far and need more, much more creating, so Im 'open-sourcing' it to you guys</p>
         <p>I need tutorials, written in Markdown language explaining how to do stuff in Linux, simple tasks like how to restart a service, show which port is being used by a process...</p>
         <p> through to complicated stuff... how to port forward an ssh connection through a docker container in an ansible playbook... and everything in between </p>
-        <p> If you have lietrally any skill in IT and want to share that with the world, then please help me... </p>
+        <p> If you have literally any skill in IT and want to share that with the world, then please help me... </p>
+        <p></p>
+        <h2>I dont know Markdown language what the hell is that?</h2>
+        <p>Markdown is incredible easy, it makes making content for website basically a joke... the truth is, this website is on its 3rd iteration, the previous two were written in pure jsx/javascript, and it took me hours to write a simple tutorial</p>
+        <p>The same tutorials in Markdown took me ~30mins.</p>
+        <p>Here is everything you need to learn Markdown, its basically symbols mixed with English</p>
+        <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
+        <p></p>
+        <h2>I dont know what to create for content, I have no ideas!</h2>
+        <p>Please just steal some tutorials from these sites, and "copy" them to markdown</p>
+        <a href="https://opensource.com/tags/linux">opensource</a>
+        <a href="https://linuxjourney.com/">linuxjourney</a>
+        <a href="https://ryanstutorials.net/linuxtutorial/">ryanstutorials</a>
+        <a href="https://www.cyberciti.biz/faq/">GREAT PLACE TO COPY FROM</a>
+        <a href="https://wiki.bash-hackers.org/start">bash-hackers</a>
+        <a href="https://devhints.io/">devhints</a>
+        <a href="https://vim.fandom.com/wiki/Vim_Tips_Wiki/">vim hints</a>
+        <h2>Ok, whats in it for me?</h2>
+        <p>Well, I cant offer you cash, MAYBE I would be up for discussion about some agreement for cash (~300-400czk) in return for every 10 pages of published tutorial content, but please... dont consider cash as an incentive here</p>
+        <p> I can offer you a beer or two if you are willing to help a friend, thats about it</p>
+        <p>The truth is, I wont take a profit from this page, I started it with the aim of learning react.js and along the way of learning that, I had this idea to create a tutorial website to help others as I was helped in the beginning</p>
+        <p>I would just like to help others to help themselves, to change their careers, thats all</p>
+        <p></p>
+        <h2>So theres nothing in this for me?</h2>
+        <p>Well, Ill add you to some contributors page I will create on the site... so you will have solid gold proof that you have contributed to an open source Linux tutorail website in your out-of-work time. You'll have some green squares on your github heat-map to show to future employers and you'll have a sense of pride that you helped someone who needed help to get where you are.</p>
+        
+        
         
         
       </Container>
