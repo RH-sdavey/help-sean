@@ -16,7 +16,11 @@ const IndexPage = () => (
         <a href="https://swhy.netlify.com/">Sean Will Help You</a>
         <p></p>
         <p>All details on how to contribute are here...</p>
-        <a href="https://github.com/RH-sdavey/sean-will-help-you">find the contributing.md file</a>
+        <a href="https://github.com/RH-sdavey/sean-will-help-you/wiki/How-to-contribute-to-the-site....">Contribute here</a>
+        <p></p>
+        <h2>What the fuck, why should I help you?</h2>
+        <p>I'm just asking for help, you don't need to help me, I really dont mind if you have no time or just dont want to.. thats fine</p>
+        <p>But first jut let me explain what Im doing on the website...</p>
         
       </Container>
     </Page>
