@@ -59,6 +59,16 @@ const IndexPage = () => (
         <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that ( next section for explanation ). 
           So... all I need is tutorials content for now... if you can help me with that, I would be very happy...</p>
        <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/wiki/How-to-contribute-to-the-site....">here</a> for details how to help contribute...and THANK YOU!</p>
+        <h2>But my English is so bad....Ill be embaressed!</h2>
+        <p>No problem, All pull requests to the repo are automatically assigned to me, and I will check all the content and spelling/grammar etc before I approve anything, I will offer alternatives and explanations to sentences or words that could be better, thats the smallest problem we have, no worries!</p>
+        <p></p>
+        <h2> I have no time / I dont want to / Im too lazy / Not for me thanks...</h2>
+        <p>No problem... I asked only because your a friend or ex colleagues of mine, who has IT skills. Of course I knew not everybody would want to help, but why not ask right?? so I wont hold it against you. Enjoy your day, and keep checking the site!, maybe you might learn something :D </p>
+        <h2>Whats your plans for the site?</h2>
+        <p>At the moment, tutorials tutorials tutorials... I need that content baby!</p>
+        <p>In the future, I'd like to have some learning paths, that users will follow specific paths and lessons in order to become a syadmin/developer/devops engineer, within 5-6 months....</p>
+        <p>These learning paths will be in a seperate part of the site than the tutorials, and maybe I will consider user profiles for saving learning path progress</p>
+        <p>If you want to help with the learning paths, then ping me directly, as they take a bit more explanation... but for now, Im really only needing...tutorial conteeeeeennnttt!</p>
         
         
         
