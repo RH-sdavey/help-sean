@@ -56,7 +56,7 @@ const IndexPage = () => (
         <p>Well, Ill add you to some contributors page I will create on the site... so you will have solid gold proof that you have contributed to an open source Linux tutorial website in your out-of-work time. You'll have some green squares on your github heat-map to show to future employers and you'll have a sense of pride that you helped someone who needed help to get where you are. Plus it will look pretty good on your CV that you are a "regular contributor" to a Linux tutorial website, it will look very good compared to the next dude who doesnt do that.</p>
         <br/>
         <h2>Ok, how can I start?</h2>
-        <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that ( next section for explanation ). 
+        <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that. 
           So... all I need is tutorials content for now... if you can help me with that, I would be very happy...</p>
        <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/wiki/How-to-contribute-to-the-site....">here</a> for details how to help contribute...and THANK YOU!</p>
         <h2>But my English is so bad....Ill be embaressed!</h2>
