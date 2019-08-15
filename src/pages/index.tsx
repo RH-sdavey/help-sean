@@ -49,7 +49,7 @@ const IndexPage = () => (
         <h2>Ok, whats in it for me?</h2>
         <p>Well, I cant offer you cash, MAYBE I would be up for discussion about some agreement for cash (~300-400czk) in return for every 10 pages of published tutorial content, but please... dont consider cash as an incentive here</p>
         <p> I can offer you a beer or two if you are willing to help a friend, thats about it</p>
-        <p>The truth is, I wont take a profit from this page, I started it with the aim of learning react.js and along the way of learning that, I had this idea to create a tutorial website to help others as I was helped in the beginning</p>
+        <p>The truth is, I wont take a profit from this page, I started it with the aim of learning react.js and along the way of learning that, I had this idea to create a tutorial website to help others as I was helped in the beginning of my career. If you were ever helped in the beginning your IT career, why not pay-it-forward a little bit by writing a tutorial to help hundreds or thousands of others in future? think about that sweet sweet karma!</p>
         <p>I would just like to help others to help themselves, to change their careers, thats all</p>
         <p></p>
         <h2>So theres nothing in this for me?</h2>
