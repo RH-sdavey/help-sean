@@ -70,7 +70,7 @@ const IndexPage = () => (
         <p>These learning paths will be in a seperate part of the site than the tutorials, and maybe I will consider user profiles for saving learning path progress</p>
         <p>If you want to help with the learning paths, then ping me directly, as they take a bit more explanation... but for now, Im really only needing...tutorial conteeeeeennnttt!</p>
         
-        
+        <h1 Check <a href="https://github.com/RH-sdavey/sean-will-help-you/CONTRIBUTING.md">here</a> for details how to contribute </h1>
         
       </Container>
     </Page>
