@@ -16,7 +16,7 @@ const IndexPage = () => (
         <a href="https://swhy.netlify.com/">Sean Will Help You</a>
         <p></p>
         <p>All details on how to contribute are here...</p>
-        <a href="https://github.com/RH-sdavey/sean-will-help-you/CONTRIBUTING.md">Contribute here</a>
+        <a href="https://github.com/RH-sdavey/sean-will-help-you/blob/master/CONTRIBUTING.md">Contribute here</a>
         <p></p>
         <h2>What the fuck, why should I help you?</h2>
         <p>I'm just asking for help, you don't need to help me, I really dont mind if you have no time or just dont want to.. thats fine</p>
@@ -58,7 +58,7 @@ const IndexPage = () => (
         <h2>Ok, how can I start?</h2>
         <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that. 
           So... all I need is tutorials content for now... if you can help me with that, I would be very happy...</p>
-       <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/CONTRIBUTING.md">here</a> for details how to help contribute...and THANK YOU!</p>
+       <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/blob/master/CONTRIBUTING.md">here</a> for details how to help contribute...and THANK YOU!</p>
         <h2>But my English is so bad....Ill be embaressed!</h2>
         <p>No problem, All pull requests to the repo are automatically assigned to me, and I will check all the content and spelling/grammar etc before I approve anything, I will offer alternatives and explanations to sentences or words that could be better, thats the smallest problem we have, no worries!</p>
         <p></p>
@@ -70,7 +70,7 @@ const IndexPage = () => (
         <p>These learning paths will be in a seperate part of the site than the tutorials, and maybe I will consider user profiles for saving learning path progress</p>
         <p>If you want to help with the learning paths, then ping me directly, as they take a bit more explanation... but for now, Im really only needing...tutorial conteeeeeennnttt!</p>
         
-        <h1 Check <a href="https://github.com/RH-sdavey/sean-will-help-you/CONTRIBUTING.md">here</a> for details how to contribute </h1>
+        <h1 Check <a href="https://github.com/RH-sdavey/sean-will-help-you/blob/master/CONTRIBUTING.md">here</a> for details how to contribute </h1>
         
       </Container>
     </Page>
