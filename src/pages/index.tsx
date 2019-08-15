@@ -32,8 +32,8 @@ const IndexPage = () => (
         <p> If you have literally any skill in IT and want to share that with the world, then please help me... </p>
         <p></p>
         <h2>I dont know Markdown language what the hell is that?</h2>
-        <p>Markdown is incredible easy, it makes making content for website basically a joke... the truth is, this website is on its 3rd iteration, the previous two were written in pure jsx/javascript, and it took me hours to write a simple tutorial</p>
-        <p>The same tutorials in Markdown took me ~30mins.</p>
+        <p>Markdown is incredible easy, it makes making content for website basically a joke... the truth is, the swhy website is on its 3rd iteration, the previous two were written in pure jsx/javascript, and it took me hours to write a simple tutorial</p>
+        <p>The same tutorials in Markdown took me ~45mins.</p>
         <p>Here is everything you need to learn Markdown, its basically symbols mixed with English</p>
         <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
         <p></p>
