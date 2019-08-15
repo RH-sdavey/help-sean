@@ -58,7 +58,7 @@ const IndexPage = () => (
         <h2>Ok, how can I start?</h2>
         <p> Ok, first of all, thanks for ANY help... theres somethings I want to do with the site but I just need time, so your help will hopefully give me enough spare time to do that. 
           So... all I need is tutorials content for now... if you can help me with that, I would be very happy...</p>
-       <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/wiki/How-to-contribute-to-the-site....">here</a> for details how to help contribute...and THANK YOU!</p>
+       <p> Please see <a href="https://github.com/RH-sdavey/sean-will-help-you/CONTRIBUTING.md">here</a> for details how to help contribute...and THANK YOU!</p>
         <h2>But my English is so bad....Ill be embaressed!</h2>
         <p>No problem, All pull requests to the repo are automatically assigned to me, and I will check all the content and spelling/grammar etc before I approve anything, I will offer alternatives and explanations to sentences or words that could be better, thats the smallest problem we have, no worries!</p>
         <p></p>
