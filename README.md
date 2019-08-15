@@ -1,45 +1,8 @@
-# gatsby-starter-typescript-plus
+# This is a repo for a website I made, asking for help for creating another website! 😀
 
-> A starter kit for TypeScript-based Gatsby projects with sensible defaults.
+Here is the -asking-for-help- website [HERE](https://gracious-bell-9a0cdc.netlify.com)
 
-This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites written in TypeScript. It includes the bare essentials for you to get started (styling, Markdown parsing, minimal toolset).
-
-## Features
-
-- TypeScript
-- ESLint (with custom ESLint rules)
-- Markdown rendering with Remark
-- Basic component structure
-- Styling with [emotion](https://emotion.sh/)
-
-## Geting started
-
-Install this starter (assuming you have `gatsby-cli` installed) by running the following command:
-
-```bash
-gatsby new project-name https://github.com/resir014/gatsby-starter-typescript-plus
-```
-
-## Developing
-
-A nodejs >= 6.0.0 setup with [yarn](https://yarnpkg.com/) is recommended.
-
-```bash
-# install dependencies
-yarn
-
-# ...or, for npm
-npm install
-
-# serve with hot reload at localhost:8000
-npm start
-
-# build for production
-npm run build
-
-# build for production and push to gh-pages branch
-npm run deploy
-```
+which is asking for help to create content on my Linux tutorial website [HERE](https://swhy.netlify.com)
 
 ## Credits
 
