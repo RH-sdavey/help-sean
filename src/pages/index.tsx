@@ -38,14 +38,7 @@ const IndexPage = () => (
         <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheat Sheet</a>
         <p></p>
         <h2>I dont know what to create for content, I have no ideas!</h2>
-        <p>Please just steal some tutorials from these sites, and "copy" them to markdown</p><br/>
-        <a href="https://opensource.com/tags/linux">opensource</a><br/>
-        <a href="https://linuxjourney.com/">linuxjourney</a><br/>
-        <a href="https://ryanstutorials.net/linuxtutorial/">ryanstutorials</a><br/>
-        <a href="https://www.cyberciti.biz/faq/">GREAT PLACE TO COPY FROM</a><br/>
-        <a href="https://wiki.bash-hackers.org/start">bash-hackers</a><br/>
-        <a href="https://devhints.io/">devhints</a><br/>
-        <a href="https://vim.fandom.com/wiki/Vim_Tips_Wiki/">vim hints</a><br/>
+        <p>Anything you know how to do, that others could benefit from, just write it down 😝</p><br/>
         <h2>Ok, whats in it for me?</h2>
         <p>Well, I cant offer you cash, MAYBE I would be up for discussion about some agreement for cash (~300-400czk) in return for every 10 pages of published tutorial content, but please... dont consider cash as an incentive here</p>
         <p> I can offer you a beer or two if you are willing to help a friend, thats about it</p>
